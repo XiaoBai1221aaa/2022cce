@@ -24,6 +24,65 @@ int main()
  ///CodeBlocks如果畫三條,會比較深
 }
 ```
+#Week 02
+
+Step.1
+跳行
+```cpp
+#include <stdio.h>
+int main()
+{
+    printf("Hello World\n");
+    printf("H\tello World\n");
+    printf("\tHello World\n");
+}
+```
+Step.2
+printf() 裡利用 %d 插入數值
+```cpp
+#include <stdio.h>
+int main()
+{
+    printf("333\n");
+    printf("這裡有字,有插入值\n");
+    printf("這裡有字%d有插入值\n",333);
+
+}
+```
+Step.3
+宣告整數變數 int a;
+```cpp
+#include <stdio.h>
+ int main()
+ {
+
+     int a;
+     a = 2;
+     printf("²{¦bªºa¬O%d\n", a);
+     a = 99;
+     printf("²{¦bªºa¬O%d\n",a);
+ }
+```
+Step.4
+兩數相加
+```cpp
+#include <stdio.h>
+
+int main()
+{
+
+    int a,b;
+    printf("請用鍵盤輸入兩個整數: ");
+    scanf( "%d", &a );
+    scanf( "%d", &b );
+    printf("你讀入了 %d %d \n", a, b);
+    printf("它們加起來是: %d \n", a+b);
+}
+
+```
+#Week 03
+#Week 04
+#Week 05
 #Week 06
 
 Step.1
