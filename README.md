@@ -1,13 +1,9 @@
-# 2022cce
-
-# 2022程式設計 乙班
-
 # Week01
 1. What? Why? How? 學什麼? 為什麼學? 如何學?
-2. Moodle, 瘋狂程設,  FB/Teams, 實習 (繳交課堂作業33%,課堂考試33%, 實習33%) (圖片,1週交)  (上課鐘響考試/補考)
-3. 第一個程式 Hello World (The C Programming Language)
+2. Moodle, 瘋狂程設,  FB/Teams, 實習
+3. 第一個程式 Hello World 
   - 3.1. File-New-Empty File 開新檔案
-  - 3.2. File-Save As 另存新檔 week01-1.cpp (你要把 .cpp 打出來)
+  - 3.2. File-Save As 另存新檔 week01-1.cpp 
   - 3.3. 在右邊寫程式
   - 3.4. Build and Run 
 
